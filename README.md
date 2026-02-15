@@ -104,10 +104,10 @@ Based on the analysis, the following recommendations can improve business perfor
 ---
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshot in the screenshots folder and link here)
+## 📷 Dashboard Preview
 
-Example:
-![Excel Dashboard](Screenshot 2024-02-15 143928.png)
+![Excel Dashboard](Screenshot%202024-02-15%20143928.png)
+
 
 ---
 
